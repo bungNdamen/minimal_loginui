@@ -1,4 +1,4 @@
-# new_app1
+# minimal_loginui
 
 A new Flutter project.
 
